@@ -1,5 +1,5 @@
 # An Introduction to This Web Site
-### Produced 16-21 February 2026
+### Written 16-21 February 2026
 
 Consistent journal writing has been a practice of mine for over one year now. I believe that I began recording my musings shortly after I discovered the wholesome fulfilment of reading in my free time, for it became clear that the works in front of me constituted the immortalized thoughts and discourses of the author. Cicero: Selected Works, published Penguin Classics, comes first to my mind, as I engaged with the end product of what I later internalized as the iterative process of giving form to one’s principles and experiences. Cicero died 43 years before the crucifixion of Christ, yet his voice rung sharply in my mind whilst I read his meditations on aging. My impetus to journal also came out of an immediate compulsion to capture practical lessons that I had learned or principles that I had developed before they could somehow be lost. From attempting to fix the vestiges of incommunicable serenity experienced during a winter hike to grappling with my severe consternations regarding life beyond the public school system, it is perhaps that same fear of forgetting that continues to underly much of my journaling. Reading entries as recent as one month ago affirms that, in some cases, this concern is justified.
 
