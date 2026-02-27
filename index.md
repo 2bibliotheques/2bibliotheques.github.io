@@ -1,4 +1,4 @@
-# Welcome to the Personal Web Site of Adam Hamilton
+# Welcome
 This site will primarily serve as the home of my writings that I am compelled document in a publicly accessible format. The ideas, advice, and moments that I intend to capture here are to serve manifold purposes for myself and for anyone who comes upon them. This repository is perhaps best described as a memorial—a memorial not only for the profundities herein captured, but for the immense grace of the God who has manifested them. I highly recommend that the visitor reads [my proper introduction to this web site](https://2bibliotheques.github.io/2026/02/22/introduction.html) in order to understand the full context in which the web site contents are shared. Along with frequent additions of writing, I intend to host complementary multimedia content and external hyperlinks that I find to be of interest. 
 
 ## Acknowledgements
