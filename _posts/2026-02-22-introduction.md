@@ -1,6 +1,5 @@
 # An Introduction to this Weblog
-## 16-21 February 2026
-## Revised 28 February 2026
+## Written 16-21 February 2026, Revised 28 February 2026
 
 ### The Impetus for Creating This Site
 Consistent journal writing has now been a practice of mine for over one year. I believe that I began recording my musings shortly after I discovered the wholesome fulfilment of reading in my free time, for it became clear that the works in front of me were composed of the immortalized thoughts and discourses of their authors. _Cicero: Selected Works_, published by Penguin Classics, comes to mind. Cicero died in 43 B.C. Yet his voice rung sharply in my mind as I engaged with the end product of the iterative process of giving form to one’s principles and experiences. My impetus to journal also came out of an immediate compulsion to fix in place the practical lessons that I had learned or the principles that I had developed with all of their nuances. From attempting to capture the vestiges of incommunicable serenity experienced during a winter hike to grappling with my severe consternations regarding life beyond the public school system, it is perhaps a certain fear of forgetting that continues to underly much of my journaling. Reading the details of journal entries as recent as one month ago affirms that—in some cases—my concerns are justified.
