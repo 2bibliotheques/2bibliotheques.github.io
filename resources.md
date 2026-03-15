@@ -19,7 +19,7 @@ This page contains digital works and resources that have accumulated in bookmark
 [The Fallen of World War II]( https://youtu.be/DwKPFT-RioU?si=69_ET6Jmyb7Y-AB9) – This is a remarkably striking video that puts the deadliest conflict in human history into perspective.
 [The Controversial Science of Nuclear Winter](https://youtu.be/KzpIsjgapAk?si=n8WDTNOjws8lOXlA)
 [A Night at the Garden](https://youtu.be/NC1MNGFHR58?si=crM_7cnsSfxQt1Wn)
-[Come and See](https://youtu.be/zjIiApN6cfg?si=sNz_F_n7349KuUUo
+[Come and See](https://youtu.be/zjIiApN6cfg?si=sNz_F_n7349KuUUo)
 [City Lights, Beautiful Nights](https://youtu.be/NX07-6gwaOs?si=uA_31hay82jIXRs9) – I found this TEDx Talk after remarking the intensity of light pollution in Greater Boston late in my first semester of college.
 [Exoatmospheric Kill Vehicles Testing Footage Compilation](https://www.youtube.com/watch?v=RnofCyaWhI0)
 [Roblox Toolbox Exploit 2012](https://www.youtube.com/watch?v=t7WXfLmNHZ0) – This provides video evidence for an obscure Roblox exploit that I heard of quite some time ago.
@@ -35,7 +35,7 @@ This page contains digital works and resources that have accumulated in bookmark
 [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/)
 [Calculator Suite - GeoGebra](https://www.geogebra.org/calculator)
 [Wolfram Alpha](https://www.wolframalpha.com/)
-[Overleaf, Online LaTeX Editor]https://www.overleaf.com/project)
+[Overleaf, Online LaTeX Editor](https://www.overleaf.com/project)
 [Centre National de Ressources Textuelles et Lexicales](https://www.cnrtl.fr/portail/)
 [Le Rouleau des prépositions](https://nos-langues.canada.ca/fr/le-rouleau-des-prepositions/index-fra)
 [Le Conjugueur](https://leconjugueur.lefigaro.fr/)
