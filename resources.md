@@ -1,13 +1,13 @@
 ---
 layout: page
-title: External Hyperlinks
+title: Resources
 ---
 
 # Resources
-This page contains digital works and resources that have accumulated in bookmark folders, lists, or computer disk space of mine throughout time. Most of these have been discovered only within the past year. I have found all of the materials documented here to be valuable for divers reasons, reflected in the sweeping range of media types.
+This page contains digital works and resources that have accumulated in bookmark folders, lists, or computer disk space of mine throughout time. Most of these have been discovered only within the past year. I have found all of the materials documented here to be valuable for divers reasons, something that is reflected in the sweeping range of media types.
 
 ## External Hyperlinks
-[The Wayback Machine](https://web.archive.org/) – The Internet Archive Wayback Machine has been indispensable in being able to access obscure websites and files. The hyperlinks located in this very webpage may one day only be accessible through this resource. That is why it is listed up here.
+[The Wayback Machine](https://web.archive.org/) – The Internet Archive Wayback Machine has been indispensable in being able to access obscure websites and files. The hyperlinks located in this very webpage may one day be solely accessible using this resource. That is why I will keep it up here.
 
 ### Essays and Literature
 [Walking](https://www.gutenberg.org/cache/epub/1022/pg1022-images.html)
@@ -60,14 +60,17 @@ This page contains digital works and resources that have accumulated in bookmark
 [Le Conjugueur](https://leconjugueur.lefigaro.fr/)
 
 [bab.la - Comment utiliser "" dans une phrase ?](https://fr.bab.la/exemples/francais/spellcheck/)
+
 [Blue Letter Bible](https://www.blueletterbible.org/)
 
-### General Online Utilities
+### General Utilities
 [CloudConvert]( https://cloudconvert.com/)
 
 [iLovePDF](https://www.ilovepdf.com/)
 
 [goEnvelope](https://goenvelope.com/) 
+
+[Google Drive Direct Link Generator](https://sites.google.com/site/gdocs2direct)
 
 ### Miscellaneous Internet Research Findings
 [New York Times Harvard Yard Pump Article (1936)](https://www.nytimes.com/1936/02/02/archives/two-alumni-urge-restoring-harvard-pump-to-end-yards-aridity-upon.html) – This is one of the few sources that I could find regarding the pump in Harvard Yard.
@@ -78,12 +81,17 @@ This page contains digital works and resources that have accumulated in bookmark
 
 [What's the difference between gyros, shawarma, döner and kebab? – Kağan Hudayar’s Answer on Quora](https://www.quora.com/Whats-the-difference-between-gyros-shawarma-d%C3%B6ner-and-kebab-The-U-S-and-Europe-seem-to-use-these-in-overlapping-but-different-ways-and-Im-confused) – This is one of the most comprehensive answers that I could find to a question that had surprisingly little input from authoritative sources.
 
-[Istanbul Mediterranean Blog – Shawarma vs Döner](https://www.istanbullv.com/blog/shawarma-vs-doner-kebab-ultimate-guide) – I found this to be another useful answer that addressed general differences in spices.
+[Istanbul Mediterranean Blog – Shawarma vs Döner](https://www.istanbullv.com/blog/shawarma-vs-doner-kebab-ultimate-guide) – I found this to be another useful answer that addressed general differences in the spices used for each dish.
+
+### Other Web Sites of Interest
+[Live MBTA (Keolis) Commuter Rail Train Mapping](https://mbta.sites.fas.harvard.edu/T/commuter-rail-map.html)
+
+[Microsoft FrontPage 2003 Test Web Site](https://2bibliotheques.github.io/frontpagetest/index.htm) – This was my first attempt at creating a personal web site, although I was primarily eager to use a valid copy of Microsoft Frontpage 2003 that I still have.
+
+[Mirror of parsecproductions.net/slender](https://2bibliotheques.github.io/parsecarchive/)
 
 ## Files
 [Microsoft Money Plus Sunset Deluxe](https://web.archive.org/web/20140320163200/https://www.microsoft.com/en-us/download/details.aspx?id=20738) – Here is a free, standalone personal financial tool that was once maintained by Microsoft. I have found that it is still functional with light testing. This may very well become useful as I one day transition into financial independence.
 
 [Roblox Forum Archive – Downloading Roblox Without the Installer](https://archive.froast.io/forum/61291341) – This is an archived forum post from January of 2012 that, along with other interesting information, contains a link to a standalone Roblox installer from 2008 hosted the Roblox servers. It can be downloaded using the Wayback Machine.
-
-I have many more files to share that will be added soon.
 
