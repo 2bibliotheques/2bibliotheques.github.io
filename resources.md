@@ -90,8 +90,32 @@ This page contains digital works and resources that have accumulated in bookmark
 
 [Mirror of parsecproductions.net/slender](https://2bibliotheques.github.io/parsecarchive/)
 
-## Files
+## Downloads
+### Files
+[EU Banned Food Additives Card](https://drive.google.com/uc?export=download&id=1t7hokSQElinvg5bRSm9Nd6OArbL-BvYe) – I created this list partly out of horror and partly out of fun. While it is evident that avoiding processed foods altogether is a better alternative to referencing this card when faced with an interminable ingredient list, the awareness of what is allowed to be put in industrial food is arguably more impactful than the health benefits that I proport from using this card.
+
+[The Edict of Sugar](https://drive.google.com/uc?export=download&id=1kn-GkRh7NWQiFOfuQFahzv45hsgNpFWU) – This project was undertaken after I realized how pervasive added sugars were in processed foodstuffs. The research and writing was mostly for my own enjoyment, however; I made especial effort to finish this on the Ides of March 2025. I now avoid added sugars altogether without such a meticulous "credit system," although I retain many of the principles and historical perspectives shared in this piece. My reader must excuse the prose that I seemed to have defaulted to in this writing.
+
+[University of Oxford Style Guide, Michaelmas term 2014](https://drive.google.com/uc?export=download&id=1GkaaAzCcaGS0gS9Gle-T6q-iGsfGbljw)
+
+["The Ultimate Guide to Writing in British English"](https://drive.google.com/uc?export=download&id=14TvNF6pTzPC_O--U4jYjlKWKHzXUzPDu)
+
+### Software
+[InstallShield 3 Engine](https://drive.google.com/uc?export=download&id=1pjGMWsQgJtgQZ7StB8QaAr-ponzNT9yL) – Included in this .zip file is a saved PDF file of the online forum where I found this. In short, some 32-bit Windows applications in the late 1990s used a 16-bit Windows 3.1 installer. While the programs themselves can still be run on modern versions of Windows, they cannot be installed without a workaround like the option provided here. As described in the post, this works under certain circumstances. I used this to successfully run a demo of Bryce 3D – the software used to create many of the classic ROBLOX skyboxes.
+
+[Windows Live Essentials 16.4.3528](https://www.majorgeeks.com/files/details/windows_live.html) – I used this mainly to access Windows Movie Maker. Support for this suite apparently ended in January of 2017.
+
 [Microsoft Money Plus Sunset Deluxe](https://web.archive.org/web/20140320163200/https://www.microsoft.com/en-us/download/details.aspx?id=20738) – Here is a free, standalone personal financial tool that was once maintained by Microsoft. I have found that it is still functional with light testing. This may very well become useful as I one day transition into financial independence.
 
 [Roblox Forum Archive – Downloading Roblox Without the Installer](https://archive.froast.io/forum/61291341) – This is an archived forum post from January of 2012 that, along with other interesting information, contains a link to a standalone Roblox installer from 2008 hosted the Roblox servers. It can be downloaded using the Wayback Machine.
+
+[Adobe Wallaby](https://drive.google.com/uc?export=download&id=1rByv0t5XmxAC9oCPfl0hizAbphKRa2JU) – Adobe Wallaby was an experimental program created by Adobe Labs to convert flash animations to HTML-5. Its features are limited, shown in the official documentation [here](https://web.archive.org/web/20110901164656/http:/labs.adobe.com/wiki/index.php/Wallaby#Features_and_Support). Having its stable release in 2012, this program is well over a decade old now. Included in the .zip file are brief instructions to install a period-correct version of Adobe AIR and the Wallaby program itself. (Adapted from my former web site)
+
+[LEGO Digital Designer](https://web.archive.org/web/20200501171942/https://www.lego.com/assets/franchisesites/ldd/installer/setupldd-pc-4_3_12.exe) – This is the last version of Lego Digital Designer which was released on November 18th, 2019. I originally hosted this file myself, although I found the official download link through the Internet Archive. (Adapted from my former web site)
+
+[3Diva Printscreen](https://drive.google.com/uc?export=download&id=13W4mW3878ZNcZ-l3l-HepZt_bsJnIjSC) – I used this software to download 3D models from Lego Digital Designer. The program is intended to download any 3D images displayed on the screen as .3dxml files. I likely downloaded this from the Wayback Machine, but I have had difficulties in finding the archived page with recent searches. (Adapted from my former web site)
+
+[Minecraft 1.6.2 Server with GUI](https://drive.google.com/uc?export=download&id=1sLofwnTp28B8OQxm9ww53240I53WhsP1) –    Released on July 8th, 2013, Minecraft 1.6.2 was the first version of the game I have played. This was taken from the Internet Archive. (Adapted from my former web site)
+
+[Minecraft 4k](https://drive.google.com/uc?export=download&id=1rJ3n8MOTZ5gYrdvp95-LP2ryIC7Ki3TS) –  I found this on the Minecraft Omniarchive Discord server long ago. This was created by Notch for the 2010 Java 4k Contest. For more information see the [Minecraft Wiki](https://minecraft.wiki/w/Minecraft_4k). (Adapted from my former web site)
 
