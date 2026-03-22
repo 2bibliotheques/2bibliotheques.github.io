@@ -36,6 +36,12 @@ This page contains digital works and resources that have accumulated in bookmark
 ### Informational Resources
 [Hills of the Boston Basin]( https://www.bostonbasinhills.org/)
 
+[The West End Museum - An Early History of the Shawmut Penninsula](https://thewestendmuseum.org/history/era/new-fields/an-early-history-of-the-shawmut-peninsula/)
+
+[Brief History of Cambridge, Mass.](https://www.cambridgema.gov/historic/cambridgehistory)
+
+[The Massachusett Tribe at Ponkapoag](https://massachusetttribe.org/)
+
 [Ad Fontes Media - Interactive Media Bias Chart](https://app.adfontesmedia.com/chart/interactive)
 
 [Gaza war in maps and satellite images](https://www.bbc.co.uk/news/resources/idt-217c6a28-4a90-4d47-a91c-13113a7dc7db)
