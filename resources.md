@@ -21,6 +21,8 @@ This page contains digital works and resources that have accumulated in bookmark
 ### Documentaries and Videos
 [The Fallen of World War II]( https://youtu.be/DwKPFT-RioU?si=69_ET6Jmyb7Y-AB9) – This is a remarkably striking video that puts the deadliest conflict in human history into perspective.
 
+[How the World Got to 8 billion](https://www.youtube.com/watch?v=hAkyxgqf5Ac) - The perspective through which our ancestors' world may be viewed that is provided by this video makes these 16 minutes well worth the time.
+
 [The Controversial Science of Nuclear Winter](https://youtu.be/KzpIsjgapAk?si=n8WDTNOjws8lOXlA)
 
 [A Night at the Garden](https://youtu.be/NC1MNGFHR58?si=crM_7cnsSfxQt1Wn)
