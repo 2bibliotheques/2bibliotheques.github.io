@@ -19,6 +19,8 @@ This page contains digital works and resources that have accumulated in bookmark
 [A Short Walk Through the Shawmut](https://www.johnhansonmitchell.com/pages/essays/fall2004.html)
 
 ### Documentaries and Videos
+[Just Eat It: A Food Waste Story](https://www.foodwastemovie.com/) - After watching this documentary in a high school global foods class, the way in which I use food has changed for the rest of my life. This film attests to a problem that reflects the worst excesses of American culture through a problem that need not exist.
+
 [The Fallen of World War II]( https://youtu.be/DwKPFT-RioU?si=69_ET6Jmyb7Y-AB9) – This is a remarkably striking video that puts the deadliest conflict in human history into perspective.
 
 [How the World Got to 8 billion](https://www.youtube.com/watch?v=hAkyxgqf5Ac) - The perspective through which our ancestors' world may be viewed that is provided by this video makes these 16 minutes well worth the time.
