@@ -1,4 +1,4 @@
-# On Canaday Hall, the Folly of Multitasking, and Spring
+# On Canaday Hall, Multitasking, and Spring
 ## 26-30 April 2026
 ## Revised 1 May 2026
 
