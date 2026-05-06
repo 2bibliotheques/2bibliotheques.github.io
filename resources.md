@@ -69,6 +69,8 @@ This page contains digital works and resources that have accumulated in bookmark
 
 [Centre National de Ressources Textuelles et Lexicales](https://www.cnrtl.fr/portail/)
 
+[Le Point du FLE](https://www.lepointdufle.net/p/apprendre_le_francais.htm)
+
 [Le Rouleau des prépositions](https://nos-langues.canada.ca/fr/le-rouleau-des-prepositions/index-fra)
 
 [Le Conjugueur](https://leconjugueur.lefigaro.fr/)
