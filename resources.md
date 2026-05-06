@@ -40,6 +40,8 @@ This page contains digital works and resources that have accumulated in bookmark
 ### Informational Resources
 [Kashrut: Jewish Dietary Laws](https://www.jewfaq.org/kosher_dietary_laws) - A fairly comprehensive overview of Kosher laws is provided on this web page that I have found useful for my own awareness. This web site is an incredibly rich resource beyond this article, however.
 
+[Foods of the Bible: A Complete List](https://www.learnreligions.com/foods-of-the-bible-700172)
+
 [Hills of the Boston Basin]( https://www.bostonbasinhills.org/)
 
 [The West End Museum - An Early History of the Shawmut Penninsula](https://thewestendmuseum.org/history/era/new-fields/an-early-history-of-the-shawmut-peninsula/)
