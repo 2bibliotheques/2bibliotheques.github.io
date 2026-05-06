@@ -19,7 +19,7 @@ This page contains digital works and resources that have accumulated in bookmark
 [A Short Walk Through the Shawmut](https://www.johnhansonmitchell.com/pages/essays/fall2004.html)
 
 ### Documentaries and Videos
-[Just Eat It: A Food Waste Story](https://www.foodwastemovie.com/) - After watching this documentary in a high school global foods class, the way in which I use food has changed for the rest of my life. This film attests to a problem that reflects the worst excesses of American culture through a problem that need not exist.
+[Just Eat It: A Food Waste Story](https://www.foodwastemovie.com/) - After watching this documentary in a high school global foods class, the way in which I consume and conserve food has been changed for the rest of my life. This film attests to perhaps one of the worst excesses of American culture through a problem that should not exist.
 
 [The Fallen of World War II]( https://youtu.be/DwKPFT-RioU?si=69_ET6Jmyb7Y-AB9) – This is a remarkably striking video that puts the deadliest conflict in human history into perspective.
 
@@ -38,6 +38,8 @@ This page contains digital works and resources that have accumulated in bookmark
 [Roblox Toolbox Exploit 2012](https://www.youtube.com/watch?v=t7WXfLmNHZ0) – This provides video evidence for an obscure Roblox exploit that I heard of quite some time ago.
 
 ### Informational Resources
+[Kashrut: Jewish Dietary Laws](https://www.jewfaq.org/kosher_dietary_laws) - A fairly comprehensive overview of Kosher laws is provided on this web page that I have found useful for my own awareness. This web site is an incredibly rich resource beyond this article, however.
+
 [Hills of the Boston Basin]( https://www.bostonbasinhills.org/)
 
 [The West End Museum - An Early History of the Shawmut Penninsula](https://thewestendmuseum.org/history/era/new-fields/an-early-history-of-the-shawmut-peninsula/)
