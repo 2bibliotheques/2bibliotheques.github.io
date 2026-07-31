@@ -37,8 +37,10 @@ This page contains digital works and resources that have accumulated in bookmark
 
 [Roblox Toolbox Exploit 2012](https://www.youtube.com/watch?v=t7WXfLmNHZ0) – This provides video evidence for an obscure Roblox exploit that I heard of quite some time ago.
 
+[Rick Steve's Europe: Palestine (2014)](https://www.youtube.com/watch?v=Ec35nHno-ZM) – Originally aired on television, this short documentary provides a snapshot of the West Bank from over 10 years ago. 
+
 ### Informational Resources
-[Kashrut: Jewish Dietary Laws](https://www.jewfaq.org/kosher_dietary_laws) - A fairly comprehensive overview of Kosher laws is provided on this web page that I have found useful for my own awareness. This web site is an incredibly rich resource beyond this article, however.
+[Kashrut: Jewish Dietary Laws](https://www.jewfaq.org/kosher_dietary_laws) - This web page provides a fairly comprehensive overview of Kosher laws that I have found useful for my own awareness. This web site is an incredibly rich resource beyond this article, however.
 
 [Foods of the Bible: A Complete List](https://www.learnreligions.com/foods-of-the-bible-700172)
 
