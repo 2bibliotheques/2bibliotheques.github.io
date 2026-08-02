@@ -37,7 +37,11 @@ This page contains digital works and resources that have accumulated in bookmark
 
 [Roblox Toolbox Exploit 2012](https://www.youtube.com/watch?v=t7WXfLmNHZ0) – This provides video evidence for an obscure Roblox exploit that I heard of quite some time ago.
 
-[Rick Steve's Europe: Palestine (2014)](https://www.youtube.com/watch?v=Ec35nHno-ZM) – Originally aired on television, this short documentary provides a snapshot of the West Bank from over 10 years ago. 
+[Rick Steve's Europe: Palestine (2014)](https://www.youtube.com/watch?v=Ec35nHno-ZM) – Originally aired on television, this short documentary provides a snapshot of the West Bank from over 10 years ago.
+
+["Train Travel vs. Plane Travel: A (Mostly) Sober Analysis" by Ray Delahanty](https://www.youtube.com/watch?v=o1G1Fn1RFEI) – After a voyage home from university in an Amtrak coach car and after visiting the seven main line train stations of Paris, the only conviction of mine that may have grown stronger than my love for the train is my aversion to air travel. I found this video from Ray Delahanty–whose "CityNerd" YouTube channel is a valuable urbanism resource–that provides an analysis of the time taken on a specific intercity route via both travel methods. This video quantifies and solidifies my observations from the Amtrak experience, showing that the extra time spent on a train is often so much more enjoyable and productive.
+
+[L'IA nous rend-elle bêtes ? (ARTE)](https://www.youtube.com/watch?v=ASciuwRveAg) – This short documentary in French contains several compelling points regarding the rise of generative artificial intelligence. The folly of using the term "AI" as well as the connection between environmental damage and the narrow mindset with which companies are developing unspecialised chatbot models are two of such ideas worth considering.
 
 ### Informational Resources
 [Kashrut: Jewish Dietary Laws](https://www.jewfaq.org/kosher_dietary_laws) - This web page provides a fairly comprehensive overview of Kosher laws that I have found useful for my own awareness. This web site is an incredibly rich resource beyond this article, however.
@@ -84,7 +88,9 @@ This page contains digital works and resources that have accumulated in bookmark
 ### General Utilities
 [CloudConvert]( https://cloudconvert.com/)
 
-[iLovePDF](https://www.ilovepdf.com/)
+[PrintFriendly](https://www.printfriendly.com/)
+
+[Ezgif.com](https://ezgif.com/)
 
 [goEnvelope](https://goenvelope.com/) 
 
@@ -100,6 +106,8 @@ This page contains digital works and resources that have accumulated in bookmark
 [What's the difference between gyros, shawarma, döner and kebab? – Kağan Hudayar’s Answer on Quora](https://www.quora.com/Whats-the-difference-between-gyros-shawarma-d%C3%B6ner-and-kebab-The-U-S-and-Europe-seem-to-use-these-in-overlapping-but-different-ways-and-Im-confused) – This is one of the most comprehensive answers that I could find to a question that had surprisingly little input from authoritative sources.
 
 [Istanbul Mediterranean Blog – Shawarma vs Döner](https://www.istanbullv.com/blog/shawarma-vs-doner-kebab-ultimate-guide) – I found this to be another useful answer that addressed general differences in the spices used for each dish.
+
+[The Innu of Labrador: From Davis Inlet to Natuashish (CBS News Indepth)](https://web.archive.org/web/20041217030423/https://www.cbc.ca/news/background/aboriginals/natuashish.html)
 
 ### Other Web Sites of Interest
 [Live MBTA (Keolis) Commuter Rail Train Mapping](https://mbta.sites.fas.harvard.edu/T/commuter-rail-map.html)
