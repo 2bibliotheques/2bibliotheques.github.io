@@ -4,38 +4,29 @@ title: Resources
 ---
 
 # Resources
-This page contains digital works and resources that have accumulated in bookmark folders, lists, or computer disk space of mine throughout time. Most of these have been discovered only within the past year. I have found all of the materials documented here to be valuable for divers reasons, something that is reflected in the sweeping range of media types.
+
+This page contains digital works and resources that have accumulated in the bookmark folders and computer disk space of mine. Most of these have been discovered only within the past year. I have found all of the materials documented here to be valuable for divers reasons, something that is reflected in the sweeping range of media categories.
 
 ## External Hyperlinks
-[The Wayback Machine](https://web.archive.org/) – The Internet Archive Wayback Machine has been indispensable in being able to access obscure websites and files. The hyperlinks located in this very webpage may one day be solely accessible using this resource. That is why I will keep it up here.
+
+[The Wayback Machine](https://web.archive.org/) – The Internet Archive Wayback Machine is an indispensable utility for accessing obscure websites and files. The hyperlinks located in this very webpage may one day be solely accessible using this resource. That is why I will keep it up here.
 
 ### Essays and Literature
-[Walking](https://www.gutenberg.org/cache/epub/1022/pg1022-images.html)
-
-[A Modell of Christian Charity](https://history.hanover.edu/texts/winthmod.html)
+[The Omnivore’s Dilemma](https://michaelpollan.com/books/the-omnivores-dilemma/) – This remains one of the first books that I recommend to anyone. Michael Pollen reflects upon the gravity behind the fundamental choice of what one eats. This book forever changed the way in which I approach garnering my sustenance in an enlightening manner—contrary to what the title may lead one to believe, I now consume the meats that I choose to with greater confidence and a sense of a complete state of mind.
 
 [Life After Cars](https://www.lifeaftercars.com/)
 
 [A Short Walk Through the Shawmut](https://www.johnhansonmitchell.com/pages/essays/fall2004.html)
 
+[Walking](https://www.gutenberg.org/cache/epub/1022/pg1022-images.html)
+
+[A Modell of Christian Charity](https://history.hanover.edu/texts/winthmod.html) – This is the source for the famous quote regarding the vision for New England, “For wee must consider that wee shall be as a citty upon a hill. The eies of all people are uppon us.” It would be an understatement to merely say that the author of this piece is a (rightfully) controversial figure. However, the text is worth reading for both the theological arguments that he presents along with the historical perspective that the piece provides.
+
 ### Documentaries and Videos
-[Just Eat It: A Food Waste Story](https://www.foodwastemovie.com/) - After watching this documentary in a high school global foods class, the way in which I consume and conserve food has been changed for the rest of my life. This film attests to perhaps one of the worst excesses of American culture through a problem that should not exist.
+
+[Just Eat It: A Food Waste Story](https://www.foodwastemovie.com/) – After watching this documentary in a high school global foods class, the way in which I consume and conserve food has been changed for the rest of my life. This film attests to perhaps one of the worst excesses of American culture through a problem that should not exist.
 
 [The Fallen of World War II]( https://youtu.be/DwKPFT-RioU?si=69_ET6Jmyb7Y-AB9) – This is a remarkably striking video that puts the deadliest conflict in human history into perspective.
-
-[How the World Got to 8 billion](https://www.youtube.com/watch?v=hAkyxgqf5Ac) - The perspective through which our ancestors' world may be viewed that is provided by this video makes these 16 minutes well worth the time.
-
-[The Controversial Science of Nuclear Winter](https://youtu.be/KzpIsjgapAk?si=n8WDTNOjws8lOXlA)
-
-[A Night at the Garden](https://youtu.be/NC1MNGFHR58?si=crM_7cnsSfxQt1Wn)
-
-[Come and See](https://youtu.be/zjIiApN6cfg?si=sNz_F_n7349KuUUo)
-
-[City Lights, Beautiful Nights](https://youtu.be/NX07-6gwaOs?si=uA_31hay82jIXRs9) – I found this TEDx Talk after remarking the intensity of light pollution in Greater Boston late in my first semester of college.
-
-[Exoatmospheric Kill Vehicles Testing Footage Compilation](https://www.youtube.com/watch?v=RnofCyaWhI0)
-
-[Roblox Toolbox Exploit 2012](https://www.youtube.com/watch?v=t7WXfLmNHZ0) – This provides video evidence for an obscure Roblox exploit that I heard of quite some time ago.
 
 [Rick Steve's Europe: Palestine (2014)](https://www.youtube.com/watch?v=Ec35nHno-ZM) – Originally aired on television, this short documentary provides a snapshot of the West Bank from over 10 years ago.
 
@@ -43,10 +34,22 @@ This page contains digital works and resources that have accumulated in bookmark
 
 [L'IA nous rend-elle bêtes ? (ARTE)](https://www.youtube.com/watch?v=ASciuwRveAg) – This short documentary in French contains several compelling points regarding the rise of generative artificial intelligence. The folly of using the term "AI" as well as the connection between environmental damage and the narrow mindset with which companies are developing unspecialised chatbot models are two of such ideas worth considering.
 
-### Informational Resources
-[Kashrut: Jewish Dietary Laws](https://www.jewfaq.org/kosher_dietary_laws) - This web page provides a fairly comprehensive overview of Kosher laws that I have found useful for my own awareness. This web site is an incredibly rich resource beyond this article, however.
+[How the World Got to 8 billion](https://www.youtube.com/watch?v=hAkyxgqf5Ac) - The perspective through which our ancestors' world may be viewed that is provided by this video makes these 16 minutes well worth the time.
 
-[Foods of the Bible: A Complete List](https://www.learnreligions.com/foods-of-the-bible-700172)
+[City Lights, Beautiful Nights](https://youtu.be/NX07-6gwaOs?si=uA_31hay82jIXRs9) – I found this TEDx Talk after remarking the intensity of light pollution in Greater Boston late in my first semester of college.
+
+[The Controversial Science of Nuclear Winter](https://youtu.be/KzpIsjgapAk?si=n8WDTNOjws8lOXlA)
+
+[Come and See](https://youtu.be/zjIiApN6cfg?si=sNz_F_n7349KuUUo)
+
+[A Night at the Garden](https://youtu.be/NC1MNGFHR58?si=crM_7cnsSfxQt1Wn)
+
+[Exoatmospheric Kill Vehicles Testing Footage Compilation](https://www.youtube.com/watch?v=RnofCyaWhI0)
+
+[Roblox Toolbox Exploit 2012](https://www.youtube.com/watch?v=t7WXfLmNHZ0) – This provides video evidence for an obscure Roblox exploit that I heard of quite some time ago.
+
+### Miscellaneous Informational Resources
+[Kashrut: Jewish Dietary Laws](https://www.jewfaq.org/kosher_dietary_laws) - This web page provides a fairly comprehensive overview of Kosher laws that I have found useful for my own awareness. This web site is an incredibly rich resource beyond this article, however.
 
 [Hills of the Boston Basin]( https://www.bostonbasinhills.org/)
 
@@ -60,7 +63,32 @@ This page contains digital works and resources that have accumulated in bookmark
 
 [Gaza war in maps and satellite images](https://www.bbc.co.uk/news/resources/idt-217c6a28-4a90-4d47-a91c-13113a7dc7db)
 
-[NHS – Knee exercises for runners](https://www.nhs.uk/live-well/exercise/knee-exercises-for-runners/)
+[CBS News Indepth: The Innu of Labrador: From Davis Inlet to Natuashish](https://web.archive.org/web/20041217030423/https://www.cbc.ca/news/background/aboriginals/natuashish.html) – “Davis Inlet” was apparently the first settlement that the airplane in which I returned home from Paris passed on the North American continent.
+
+[What's The Difference Between Gyros, Shawarma, Döner and Kebab? – Answer by Ozgur Demir on Quora](https://www.quora.com/Whats-the-difference-between-gyros-shawarma-d%C3%B6ner-and-kebab-The-U-S-and-Europe-seem-to-use-these-in-overlapping-but-different-ways-and-Im-confused) (See [this supplemental resource](https://istanbulgrillorlando.com/turkish-kebabs/the-real-differences-between-turkish-doner-greek-gyros-and-arabic-shawarma/) from a restaurant in Orlando that presents the nuances of these dishes in terms of spices and sauces.)
+
+### Health Resources
+
+[USDA – Tracking Food Industry Pledges to Remove Petroleum-Based Food Dyes](https://www.fda.gov/food/color-additives-information-consumers/tracking-food-industry-pledges-remove-petroleum-based-food-dyes)
+
+[Pourquoi il ne faut surtout pas faire pipi sous la douche (Why one must absolutely not pee in the shower)](https://www.allodocteurs.fr/pourquoi-il-ne-faut-surtout-pas-faire-pipi-sous-la-douche-37588.html) – This is an important health practice that I learned of during my time in Paris.
+
+[NHS – Knee Exercises for Runners](https://www.nhs.uk/live-well/exercise/knee-exercises-for-runners/)
+
+[USDA – Leftovers and Food Safety](https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/leftovers-and-food-safety)
+
+[Larimer County Deptartment of Health - A Guide to Evaluating Dented Cans](https://www.larimer.org/sites/default/files/uploads/2017/lcdhe-dented-cans.pdf)
+
+[NHS North Bristol – Post Viral Fatigue](https://www.nbt.nhs.uk/our-services/a-z-services/bristol-me-service/post-viral-fatigue-a-guide-management)
+
+[NHS - Nosebleed](https://www.nhs.uk/conditions/nosebleed/) ([Also see this alternative Resource from NHS University Hospitals Plymouth](https://www.plymouthhospitals.nhs.uk/display-pil/pil-nosebleeds-5612/))
+
+[How Long After a Nosebleed Can One Exercise?](https://www.healthtap.com/questions/6846779-how-long-after-a-nosebleed-can-i-exercise-does-it-have-to-be-a-day-or-can-it-be-sooner-no-reoccurr/) – It was surprisingly difficult to find a clear, authoritative answer to this question online. Dr. Daniel Saurborn, a
+diagnostic radiology specialist, has provided this answer on the HealthTap forum.
+
+[BetterHealth Channel (Victoria Department of Health) – Jet Lag](https://www.betterhealth.vic.gov.au/health/healthyliving/jet-lag#strategiesto-reduce-the-impact-of-jet-lag)
+
+[Harvard Health Publishing – Resetting Your Circadian Clock to Minimize Jet Lag](https://www.health.harvard.edu/blog/resetting-your-circadian-clock-to-minimize-jet-lag-2016090810279) – I can personally attest to the effectiveness of fasting in mitigating jet lag that is discussed in this article. However, I can also attest to the importance of following all of the preceding advice, and this is likely much more important.
 
 ### Textbooks and Learning Tools
 [Learn C++](https://www.learncpp.com/)
