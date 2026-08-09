@@ -48,7 +48,8 @@ This page contains digital works and resources that have accumulated in the book
 
 [Roblox Toolbox Exploit 2012](https://www.youtube.com/watch?v=t7WXfLmNHZ0) – This provides video evidence for an obscure Roblox exploit that I heard of quite some time ago.
 
-### Miscellaneous Informational Resources
+### Informational Resources
+
 [Kashrut: Jewish Dietary Laws](https://www.jewfaq.org/kosher_dietary_laws) - This web page provides a fairly comprehensive overview of Kosher laws that I have found useful for my own awareness. This web site is an incredibly rich resource beyond this article, however.
 
 [Hills of the Boston Basin]( https://www.bostonbasinhills.org/)
@@ -62,10 +63,6 @@ This page contains digital works and resources that have accumulated in the book
 [Ad Fontes Media - Interactive Media Bias Chart](https://app.adfontesmedia.com/chart/interactive)
 
 [Gaza war in maps and satellite images](https://www.bbc.co.uk/news/resources/idt-217c6a28-4a90-4d47-a91c-13113a7dc7db)
-
-[CBS News Indepth: The Innu of Labrador: From Davis Inlet to Natuashish](https://web.archive.org/web/20041217030423/https://www.cbc.ca/news/background/aboriginals/natuashish.html) – “Davis Inlet” was apparently the first settlement that the airplane in which I returned home from Paris passed on the North American continent.
-
-[What's The Difference Between Gyros, Shawarma, Döner and Kebab? – Answer by Ozgur Demir on Quora](https://www.quora.com/Whats-the-difference-between-gyros-shawarma-d%C3%B6ner-and-kebab-The-U-S-and-Europe-seem-to-use-these-in-overlapping-but-different-ways-and-Im-confused) (See [this supplemental resource](https://istanbulgrillorlando.com/turkish-kebabs/the-real-differences-between-turkish-doner-greek-gyros-and-arabic-shawarma/) from a restaurant in Orlando that presents the nuances of these dishes in terms of spices and sauces.)
 
 ### Health Resources
 
@@ -131,11 +128,9 @@ diagnostic radiology specialist, has provided this answer on the HealthTap forum
 
 [The Building Blocks Of ROBLOX](https://archives.midweek.com/content/columns/clickchick_article/the_building_blocks_of_roblox/)
 
-[What's the difference between gyros, shawarma, döner and kebab? – Kağan Hudayar’s Answer on Quora](https://www.quora.com/Whats-the-difference-between-gyros-shawarma-d%C3%B6ner-and-kebab-The-U-S-and-Europe-seem-to-use-these-in-overlapping-but-different-ways-and-Im-confused) – This is one of the most comprehensive answers that I could find to a question that had surprisingly little input from authoritative sources.
+[CBS News Indepth: The Innu of Labrador: From Davis Inlet to Natuashish](https://web.archive.org/web/20041217030423/https://www.cbc.ca/news/background/aboriginals/natuashish.html) – “Davis Inlet” was apparently the first settlement that the airplane in which I returned home from Paris passed on the North American continent.
 
-[Istanbul Mediterranean Blog – Shawarma vs Döner](https://www.istanbullv.com/blog/shawarma-vs-doner-kebab-ultimate-guide) – I found this to be another useful answer that addressed general differences in the spices used for each dish.
-
-[The Innu of Labrador: From Davis Inlet to Natuashish (CBS News Indepth)](https://web.archive.org/web/20041217030423/https://www.cbc.ca/news/background/aboriginals/natuashish.html)
+[What's The Difference Between Gyros, Shawarma, Döner and Kebab? – Answer by Ozgur Demir on Quora](https://www.quora.com/Whats-the-difference-between-gyros-shawarma-d%C3%B6ner-and-kebab-The-U-S-and-Europe-seem-to-use-these-in-overlapping-but-different-ways-and-Im-confused) (See [this supplemental resource](https://istanbulgrillorlando.com/turkish-kebabs/the-real-differences-between-turkish-doner-greek-gyros-and-arabic-shawarma/) from a restaurant in Orlando that presents the nuances of these dishes in terms of spices and sauces.)
 
 ### Other Web Sites of Interest
 [Live MBTA (Keolis) Commuter Rail Train Mapping](https://mbta.sites.fas.harvard.edu/T/commuter-rail-map.html)
