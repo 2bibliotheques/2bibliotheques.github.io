@@ -11,7 +11,7 @@ This page contains digital works and resources that have accumulated in the book
 
 [The Wayback Machine](https://web.archive.org/) – The Internet Archive Wayback Machine is an indispensable utility for accessing obscure websites and files. The hyperlinks located in this very webpage may one day be solely accessible using this resource. That is why I will keep it up here.
 
-### Essays and Literature
+### Books and Papers
 [The Omnivore’s Dilemma](https://michaelpollan.com/books/the-omnivores-dilemma/) – This remains one of the first books that I recommend to anyone. Michael Pollen reflects upon the gravity behind the fundamental choice of what one eats. This book forever changed the way in which I approach garnering my sustenance in an enlightening manner—contrary to what the title may lead one to believe, I now consume the meats that I choose to with greater confidence and a sense of a complete state of mind.
 
 [Life After Cars](https://www.lifeaftercars.com/)
@@ -88,6 +88,7 @@ diagnostic radiology specialist, has provided this answer on the HealthTap forum
 [Harvard Health Publishing – Resetting Your Circadian Clock to Minimize Jet Lag](https://www.health.harvard.edu/blog/resetting-your-circadian-clock-to-minimize-jet-lag-2016090810279) – I can personally attest to the effectiveness of fasting in mitigating jet lag that is discussed in this article. However, I can also attest to the importance of following all of the preceding advice, and this is likely much more important.
 
 ### Textbooks and Learning Tools
+
 [Learn C++](https://www.learncpp.com/)
 
 [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/)
@@ -111,6 +112,7 @@ diagnostic radiology specialist, has provided this answer on the HealthTap forum
 [Blue Letter Bible](https://www.blueletterbible.org/)
 
 ### General Utilities
+
 [CloudConvert]( https://cloudconvert.com/)
 
 [PrintFriendly](https://www.printfriendly.com/)
@@ -133,6 +135,7 @@ diagnostic radiology specialist, has provided this answer on the HealthTap forum
 [What's The Difference Between Gyros, Shawarma, Döner and Kebab? – Answer by Ozgur Demir on Quora](https://www.quora.com/Whats-the-difference-between-gyros-shawarma-d%C3%B6ner-and-kebab-The-U-S-and-Europe-seem-to-use-these-in-overlapping-but-different-ways-and-Im-confused) (See [this supplemental resource](https://istanbulgrillorlando.com/turkish-kebabs/the-real-differences-between-turkish-doner-greek-gyros-and-arabic-shawarma/) from a restaurant in Orlando that presents the nuances of these dishes in terms of spices and sauces.)
 
 ### Other Web Sites of Interest
+
 [Live MBTA (Keolis) Commuter Rail Train Mapping](https://mbta.sites.fas.harvard.edu/T/commuter-rail-map.html)
 
 [Microsoft FrontPage 2003 Test Web Site](https://2bibliotheques.github.io/frontpagetest/index.htm) – This was my first attempt at creating a personal web site, although I was primarily eager to use a valid copy of Microsoft Frontpage 2003 that I still have.
@@ -140,7 +143,11 @@ diagnostic radiology specialist, has provided this answer on the HealthTap forum
 [Mirror of parsecproductions.net/slender](https://2bibliotheques.github.io/parsecarchive/)
 
 ## Downloads
+
 ### Files
+
+[Literature Excerpt Database](https://drive.google.com/uc?export=download&id=1uwYMtjcj1xt1-8pD6G0Frz2nPS_J6b_z) – This .XLSX file contains excerpts that I have bookmarked for future reference in my repertoire of read literature. I decided to record these especially profound or moving passages as raw text in a database, including relevant book information. I did this in order to make this content more accessible to others and to myself when I am separated from my physical library.
+
 [EU Banned Food Additives Card](https://drive.google.com/uc?export=download&id=1t7hokSQElinvg5bRSm9Nd6OArbL-BvYe) – I created this list partly out of horror and partly out of fun. While it is evident that avoiding processed foods altogether is a better alternative to referencing this card when faced with an interminable ingredient list, the awareness of what is allowed to be put in industrial food is arguably more impactful than the health benefits that I proport from using this card.
 
 [The Edict of Sugar](https://drive.google.com/uc?export=download&id=1kn-GkRh7NWQiFOfuQFahzv45hsgNpFWU) – This project was undertaken after I realized how pervasive added sugars were in processed foodstuffs. The research and writing was mostly for my own enjoyment, however; I made especial effort to finish this on the Ides of March 2025. I now avoid added sugars altogether without such a meticulous "credit system," although I retain many of the principles and historical perspectives shared in this piece. My reader must excuse the prose that I seemed to have defaulted to in this writing.
@@ -150,6 +157,7 @@ diagnostic radiology specialist, has provided this answer on the HealthTap forum
 ["The Ultimate Guide to Writing in British English"](https://drive.google.com/uc?export=download&id=14TvNF6pTzPC_O--U4jYjlKWKHzXUzPDu)
 
 ### Software
+
 [InstallShield 3 Engine](https://drive.google.com/uc?export=download&id=1pjGMWsQgJtgQZ7StB8QaAr-ponzNT9yL) – Included in this .zip file is a saved PDF file of the online forum where I found this. In short, some 32-bit Windows applications in the late 1990s used a 16-bit Windows 3.1 installer. While the programs themselves can still be run on modern versions of Windows, they cannot be installed without a workaround like the option provided here. As described in the post, this works under certain circumstances. I used this to successfully run a demo of Bryce 3D – the software used to create many of the classic ROBLOX skyboxes.
 
 [Windows Live Essentials 16.4.3528](https://www.majorgeeks.com/files/details/windows_live.html) – I used this mainly to access Windows Movie Maker. Support for this suite apparently ended in January of 2017.
