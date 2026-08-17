@@ -16,6 +16,8 @@ This page contains digital works and resources that have accumulated in the book
 
 [Life After Cars](https://www.lifeaftercars.com/)
 
+[The Pedestrian](https://archive.org/details/sim_reporter_1951-08-07_5_3/page/39/mode/1up) – Ray Bradbury's short story titled "The Pedestrian" first appeared in this August 7th, 1951 issue of *The Reporter* biweekly magazine. This hyperlink provides scan of a copy from the St. Louis Library and leads directly to Bradbury's story. 
+
 [A Short Walk Through the Shawmut](https://www.johnhansonmitchell.com/pages/essays/fall2004.html)
 
 [Walking](https://www.gutenberg.org/cache/epub/1022/pg1022-images.html)
