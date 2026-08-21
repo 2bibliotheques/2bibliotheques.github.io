@@ -45,8 +45,7 @@ The photograph below roughly depicts the proportions of the ideal house as well 
 
 ![“Mrs. Smith’s Cottage” in Navenby, England. The brick exterior walls, tile roofing, and two chimneys are notable features. This roughly resembles the image that one should have of the ideal home.](/assets/images/330px-Mr's_Smith's_cottage,_Navenby.jpg)\
 Figure 1.\
-*[“Mrs. Smith’s Cottage”](https://commons.wikimedia.org/wiki/File:Mr%27s_Smith%27s_cottage,_Navenby.jpg) in Navenby, England.*\
-*Jon, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0), via Wikimedia Commons.*
+*[“Mrs. Smith’s Cottage”](https://commons.wikimedia.org/wiki/File:Mr%27s_Smith%27s_cottage,_Navenby.jpg) in Navenby, England. Jon, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0), via Wikimedia Commons.*
 
 The interior layout of the ideal home will be largely limited by its external form. Functionality and sustainability are again the principal considerations to be made. Because the individualised rendition of the ideal house that I am considering in this piece only accommodates one to two persons, the only rooms that the ideal home should most probably have are listed below:
  
