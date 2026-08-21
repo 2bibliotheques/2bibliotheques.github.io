@@ -43,7 +43,7 @@ The final major exterior structural element to the ideal house may not be consid
 
 The photograph below roughly depicts the proportions of the ideal house as well as what its exterior might look like. Even if this specific house is lacking in several important elements, its inclusion here should provide a better mental image to my reader of the ideal house that is conceptualised here.
 
-![“Mrs. Smith’s Cottage” in Navenby, England. The brick exterior walls, tile roofing, and two chimneys are notable features. This roughly resembles the image that one should have of the ideal home.](/assets/images/330px-Mr's_Smith's_cottage,_Navenby.jpg)
+![“Mrs. Smith’s Cottage” in Navenby, England. The brick exterior walls, tile roofing, and two chimneys are notable features. This roughly resembles the image that one should have of the ideal home.](/assets/images/330px-Mr's_Smith's_cottage,_Navenby.jpg)\
 Figure 1.\
 *[“Mrs. Smith’s Cottage”](https://commons.wikimedia.org/wiki/File:Mr%27s_Smith%27s_cottage,_Navenby.jpg) in Navenby, England.*\
 *Jon, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0), via Wikimedia Commons.*
