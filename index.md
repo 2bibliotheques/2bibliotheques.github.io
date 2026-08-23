@@ -12,6 +12,6 @@ My email address ( **normandy.forest4153@protonmail.com** ) may be found at the 
 
 ## Acknowledgements
 
-I am indebted to Chad Baldwin for his [Github weblog template](https://chadbaldwin.net/resume.html). It has provided me with a remarkable degree of autonomy and simplicity in putting this content online.
+I am indebted to Chad Baldwin for his [Github weblog template](https://chadbaldwin.net/resume.html). It has provided me with a remarkable degree of ease and autonomy in putting this content online.
 
 All other content included in this web site is to be properly cited. I provide links any external resources referenced and the appropriate licence to content, when applicable. If my visitor finds any citation error or any further opportunity to provide a reference, I once again ask that he sends me an email. Thank you for visiting “Morning Along the Footpath”.
