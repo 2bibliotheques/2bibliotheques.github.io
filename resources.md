@@ -70,7 +70,7 @@ This page contains digital works and resources that have accumulated in the book
 
 [Sleep - Cornell Health](https://health.cornell.edu/resources/health-topics/sleep) – The breadth and extent of ways that receiving enough sleep impacts one's quality of life is remarkable. This Cornell Health web page provides a good outline of why "[s]leep is a necessity, not a luxury." Frequent loss of sleep seems to accompany the widespread conception of university life, but this need not be the case with time-management and *prioritisation*.
 
-[Why You Should Make a Good Night’s Sleep a Priority](https://summer.harvard.edu/blog/why-you-should-make-a-good-nights-sleep-a-priority/#The-sleep-you-need-versus-the-sleep-you-get)
+[Why You Should Make a Good Night’s Sleep a Priority](https://summer.harvard.edu/blog/why-you-should-make-a-good-nights-sleep-a-priority/)
 
 [USDA – Tracking Food Industry Pledges to Remove Petroleum-Based Food Dyes](https://www.fda.gov/food/color-additives-information-consumers/tracking-food-industry-pledges-remove-petroleum-based-food-dyes)
 
