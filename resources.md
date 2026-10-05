@@ -52,6 +52,8 @@ This page contains digital works and resources that have accumulated in the book
 
 ### Informational Resources
 
+[Armenica.org](https://web.archive.org/web/20221101223222/http://www.armenica.org/) - I discovered this resource from the maps presented in the lecture slideshow for one of my general education classes. This image from 2022 has more working links than the current site, where the maps page, among many others, is no longer accessible.
+
 [Kashrut: Jewish Dietary Laws](https://www.jewfaq.org/kosher_dietary_laws) - This web page provides a fairly comprehensive overview of Kosher laws that I have found useful for my own awareness. This web site is an incredibly rich resource beyond this article, however.
 
 [Hills of the Boston Basin]( https://www.bostonbasinhills.org/)
